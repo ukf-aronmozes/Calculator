@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun onClear(view: View){
-        tvInput?.text = ""
+        tvInput?.text = "ads"
     }
 
     fun onDecimalPoint(view: View){
